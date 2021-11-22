@@ -24,7 +24,7 @@ gender, email etc.).
 ### Instructions:
 **1. Install libraries from requirements.txt.**
 
-**2. Fill data.env file with personal credentials:**
+**2. Fill data.env file with personal credentials**
 
 **Run server:**
 ```
